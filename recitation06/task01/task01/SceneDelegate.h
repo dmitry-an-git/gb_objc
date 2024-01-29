@@ -1,12 +1,11 @@
 //
 //  SceneDelegate.h
-//  recitation05uikit
+//  task01
 //
-//  Created by Dmitry An on 22/01/2024.
+//  Created by Dmitry An on 29/01/2024.
 //
 
 #import <UIKit/UIKit.h>
-#import "ViewController.h"
 
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
 
